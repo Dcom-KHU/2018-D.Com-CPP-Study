@@ -4,5 +4,5 @@
 Link: [C++/Basic](https://justkode.github.io/categories/C/Basic/)
 <br><br>
 ## 과제 제출은?
-> 과제 검사는 김범구, 김서영, 김수민, 김승찬, 김진호, 심규진, 윤창신은 *윤석이*에게 <br><dhdbstjr98@khu.ac.kr><br>
-은승우, 이재혁, 장예원, 최병준, 최성원, 최용욱, 최지민은 *서연이*에게 보내주세요~ <br><rohsy0818@naver.com><br>
+과제 검사는 김범구, 김서영, 김수민, 김승찬, 김진호, 심규진, 윤창신은 **윤석이**에게 <br><dhdbstjr98@khu.ac.kr><br>
+은승우, 이재혁, 장예원, 최병준, 최성원, 최용욱, 최지민은 **서연이**에게 보내주세요~ <br><rohsy0818@naver.com><br>
